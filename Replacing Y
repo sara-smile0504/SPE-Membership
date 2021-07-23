@@ -1,0 +1,1 @@
+In the professional members sheet, all 'y' used as indicators to say yes if someone was a young professional, new member, senior professional etc. Changed all the 'y's to 1s just for the sake of computation. Wasn't sure what final model would look like and wanted to be able to quickly sum across columns. 
